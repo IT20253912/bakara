@@ -1,0 +1,18 @@
+.table-container{
+    padding: 25px;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+.body-container{
+    background-color:#D0D0D0;
+}
+
+.table-container span{
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+
